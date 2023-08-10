@@ -413,6 +413,7 @@ ol,li{
 
 ol,li:hover{
   font-weight: bold;
+  opacity: 95%;
 }
 
 
