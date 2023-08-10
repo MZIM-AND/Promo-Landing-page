@@ -405,6 +405,13 @@ input{
   opacity: 95%;
 }
 
+ol,li{
+  text-align: left;
+  padding-top: 1rem;
+  margin-left: 1rem;
+}
+
+
 
 
 
