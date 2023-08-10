@@ -411,6 +411,10 @@ ol,li{
   margin-left: 1rem;
 }
 
+ol,li:hover{
+  font-weight: bold;
+}
+
 
 
 
